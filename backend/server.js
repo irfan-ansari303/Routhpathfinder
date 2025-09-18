@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 5000;
 
 // ✅ Allowed frontend origins
 const allowedOrigins = [
-  "https://indore-metro.vercel.app",
+  "https://find-your-route.onrender.com",
   "http://localhost:3000",
   "http://localhost:5173"
 ];

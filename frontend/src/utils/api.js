@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5000', // Adjust if your backend is deployed or on another port
+  baseURL: 'https://routhfinder.onrender.com', // Adjust if your backend is deployed or on another port
   headers: {
     'Content-Type': 'application/json'
   }
